@@ -20,7 +20,6 @@ Dataset yang digunakan adalah dataset film Netflix yang diperbarui hingga tahun 
 | File                          | Deskripsi                                                  |
 |------------------------------|-------------------------------------------------------------|
 | `Netflix_Capstone.ipynb`     | Notebook Google Colab berisi seluruh proses analisis       |
-| `Netflix_Rating_Prediction.pptx` | Presentasi proyek dalam format PowerPoint                 |
 | `Clustering_PCA.png`         | Visualisasi hasil clustering berdasarkan genre dan rating   |
 
 ## 📁 Dataset
