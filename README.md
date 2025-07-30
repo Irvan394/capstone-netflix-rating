@@ -23,7 +23,7 @@ Dataset yang digunakan adalah dataset film Netflix yang diperbarui hingga tahun 
 | `Netflix_Rating_Prediction.pptx` | Presentasi proyek dalam format PowerPoint                 |
 | `Clustering_PCA.png`         | Visualisasi hasil clustering berdasarkan genre dan rating   |
 
-📁 Dataset
+## 📁 Dataset
 Dataset yang digunakan adalah `netflix_movies_detailed_up_to_2025.csv`, dapat diunduh dari [tautan ini](https://www.kaggle.com/datasets/bhargavchirumamilla/netflix-movies-and-tv-shows-till-2025?).
 
 ---
